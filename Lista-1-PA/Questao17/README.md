@@ -1,1 +1,1 @@
-Explicação nos comentarios do código
+#Explicações nos comentários do código.
