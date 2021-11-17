@@ -1,0 +1,1 @@
+As respostas estao no próprio código feita em comentarios
