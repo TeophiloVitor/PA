@@ -1,1 +1,1 @@
-As respostas estao no próprio código feita em comentarios
+# As respostas estão no próprio código feitas através de comentários
