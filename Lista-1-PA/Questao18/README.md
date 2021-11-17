@@ -1,1 +1,1 @@
-Exercicio de Multiplicação Matricial 
+#Explicações no código de Multiplicação Matricial.
